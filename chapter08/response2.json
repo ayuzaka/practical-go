@@ -1,0 +1,9 @@
+{
+  "type": "sensor",
+  "timestamp": 100,
+  "payload": {
+    "id": "09876",
+    "device_id": "YJKR67"
+  }
+}
+

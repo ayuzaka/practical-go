@@ -1,0 +1,9 @@
+{
+  "type": "message",
+  "timestamp": 100,
+  "payload": {
+    "id": "123456",
+    "user_id": "ABC",
+    "message": "Hello World!"
+  }
+}

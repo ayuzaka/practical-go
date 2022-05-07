@@ -3,6 +3,7 @@ module practical-go
 go 1.18
 
 require (
+	github.com/gocarina/gocsv v0.0.0-20220503141554-3986f9cfe36b
 	github.com/google/go-cmp v0.5.8
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/text v0.3.7
